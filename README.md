@@ -30,9 +30,33 @@ I believe the discipline required for long-distance running mirrors the discipli
 - **Portfolio:** [khalidashani.com](https://www.khalidashani.com)
 - **LinkedIn:** [Khalid Ashani](https://my.linkedin.com/in/khalid-ashani-2a6a70213)
 - **Instagram:** [@khalidashani](https://www.instagram.com/khalidashani)
+---
+### 🧠 Skills & Tools
+
+#### 🐍 Python Stack (Data Science & ML)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+#### 📊 R & Statistical Analysis
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Tidyverse](https://img.shields.io/badge/tidyverse-%2317507B.svg?style=for-the-badge)
+![Shiny](https://img.shields.io/badge/Shiny-009BDF?style=for-the-badge&logo=rstudio&logoColor=white)
+![ggplot2](https://img.shields.io/badge/ggplot2-%232C3E50.svg?style=for-the-badge)
+
+#### 🗃️ Databases & Big Data
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+#### 🌐 Web Development (Portfolio Stack)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ---
-
-### 📊 GitHub Stats
+###📊 GitHub Stats
 ![Khalid's GitHub stats](https://github-readme-stats.vercel.app/api?username=khalidashani&show_icons=true&theme=transparent&hide_border=true&title_color=007bff)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khalidashani&layout=compact&theme=transparent&hide_border=true&title_color=007bff)
