@@ -59,5 +59,5 @@ I believe the discipline required for long-distance running mirrors the discipli
 
 ---
 ### 📊 GitHub Stats
-![Khalid's GitHub stats](https://github-readme-stats.vercel.app/api?username=khalidashani&show_icons=true&theme=transparent&hide_border=true&title_color=007bff)
+![Khalid's GitHub stats]([https://github-readme-stats.vercel.app/api?username=khalidashani&show_icons=true&theme=transparent&hide_border=true&title_color=007bff](https://github-readme-stats.vercel.app/api?username=khalidashani&show_icons=true&theme=transparent&hide_border=true&title_color=007bff&v=1))
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khalidashani&layout=compact&theme=transparent&hide_border=true&title_color=007bff)
