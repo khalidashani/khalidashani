@@ -59,4 +59,5 @@ I believe the discipline required for long-distance running mirrors the discipli
 
 ---
 ### 📊 GitHub Stats
-![GitHub Stats](./stats.svg)
+![Stats](./profile/stats.svg)
+![Languages](./profile/top-langs.svg)
