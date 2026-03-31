@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
 jobs:
   stats:
-    runs-on: osx-latest # or ubuntu-latest
+    runs-on: ubuntu-latest
     steps:
       - uses: anuraghazra/github-readme-stats-action@v2
         with:
