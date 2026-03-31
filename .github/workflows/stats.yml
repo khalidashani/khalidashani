@@ -1,23 +1,26 @@
 name: GitHub Readme Stats
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs daily
-  workflow_dispatch: # Allows manual run
+    - cron: '0 0 * * *' # Runs daily at midnight
+  workflow_dispatch: # Allows you to run it manually
 jobs:
-  stats:
+  build:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
       - name: Generate Stats Card
-        uses: stats-organization/github-readme-stats-action@v2
+        uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
           options: username=khalidashani&show_icons=true&theme=transparent&title_color=007bff
           token: ${{ secrets.GITHUB_TOKEN }}
           
       - name: Generate Top Langs Card
-        uses: stats-organization/github-readme-stats-action@v2
+        uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
           options: username=khalidashani&layout=compact&theme=transparent&title_color=007bff
