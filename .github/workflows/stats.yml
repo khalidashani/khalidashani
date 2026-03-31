@@ -1,0 +1,14 @@
+name: GitHub Readme Stats
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily
+  workflow_dispatch:
+jobs:
+  stats:
+    runs-on: osx-latest # or ubuntu-latest
+    steps:
+      - uses: anuraghazra/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=khalidashani&show_icons=true&theme=transparent
+          token: ${{ secrets.GITHUB_TOKEN }}
